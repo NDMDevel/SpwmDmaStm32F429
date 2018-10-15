@@ -1,2 +1,2 @@
 # SpwmDmaStm32F429
-sPWM Trifasico con DMA
+sPWM Trifasico con DMA para inversor.
